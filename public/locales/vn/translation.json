@@ -1,0 +1,29 @@
+{
+    "Tasks" : {
+        "1": "Bạn còn"
+    },
+    "Task2":{
+        "1":"công việc"
+    },
+    "Made":{
+        "1":"Tạo bởi Mindx"
+    },
+    "N1":{
+        "1":"Chưa xong"
+    },
+    "N2":{
+        "1":"Tất cả"
+    },
+    "N3":{
+        "1":"Thêm"
+    },
+    "Label":{
+        "1":"Ngôn ngữ"
+    },
+    "Place":{
+        "1":"Nhập công việc ..."
+    },
+    "Day":{
+        "1":"Số ngày còn lại:"
+    }
+}

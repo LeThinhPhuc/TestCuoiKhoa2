@@ -1,0 +1,30 @@
+{
+    "Tasks" : {
+        "1": "You have"
+    },
+    "Task2":{
+        "1":"tasks left"
+    },
+    "Made":{
+        "1":"Made by Mindx"
+    },
+    "N1":{
+        "1":"Don't finish"
+    },
+    "N2":{
+        "1":"All"
+    },
+    "N3":{
+        "1":"Submit"
+    },
+    "Label":{
+        "1":"Available on"
+    },
+    "Place":{
+        "1":"Enter task ..."
+    },
+    "Day":{
+        "1":"Number of days left:"
+    }
+
+}

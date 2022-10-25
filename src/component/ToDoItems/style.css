@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;400;700&display=swap");
+
+
+
+.todo-list-container {
+  padding: 10px;
+  flex: 1;
+  height: 0px;
+}
+
+.todo-item-container {
+  border-bottom: 1px solid #ececec;
+  padding: 10px;
+  font-size: 24px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+}
+
+.todo-item-container.done {
+  color: #9a9a9a;
+  text-decoration: line-through;
+}
+
+
